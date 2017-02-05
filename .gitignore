@@ -3,6 +3,9 @@
 *.d
 
 
+Debug/
+*.vcxproj.filters
+*.vcxproj
 
 # Compiled Object files
 
